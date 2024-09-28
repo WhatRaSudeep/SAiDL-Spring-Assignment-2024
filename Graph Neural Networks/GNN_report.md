@@ -18,3 +18,5 @@ Essentially we are doing the same thing we did in GCN, but now instead of using 
 
 I implemented both the GCN and GAT models on the Cora dataset.
 
+PS: I haven't implemented any heads in my model because this was my first execution of the the GAT message passing layer to test if it worked. After a few days I went back to play around with the parameters and then I started getting torch_scatter import errors.
+
