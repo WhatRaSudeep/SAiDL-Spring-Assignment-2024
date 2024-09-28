@@ -5,8 +5,7 @@ Adding a nuclear normal loss component does not decrease the rank of the latent 
 On the other hand the majorizer loss does a great job in reducing the rank, although there is a significant variance in compression. The loss used was a log-loss majorizer. 
 
 LoRAE (Low-Rank Autoencoder):
-https://arxiv.org/abs/2310.16194#:~
-=24 Oct 2023
+https://arxiv.org/abs/2310.16194
 This paper explores the same principles as the assignment, focusing on low-rank latent spaces and compression.
 
 
