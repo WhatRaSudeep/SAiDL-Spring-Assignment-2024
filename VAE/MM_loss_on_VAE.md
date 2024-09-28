@@ -5,12 +5,11 @@ Adding a nuclear normal loss component does not decrease the rank of the latent 
 On the other hand the majorizer loss does a great job in reducing the rank, although there is a significant variance in compression. The loss used was a log-loss majorizer. 
 
 LoRAE (Low-Rank Autoencoder):
+https://arxiv.org/abs/2310.16194#:~
+=24 Oct 2023
+This paper explores the same principles as the assignment, focusing on low-rank latent spaces and compression.
 
-[https://arxiv.org/abs/2310.16194#:~:text=24 Oct 2023]-,Learning Low-Rank Latent Spaces with Simple,Autoencoder%3A Theoretical and Empirical Insights&text=The autoencoder is an unsupervised,by minimizing the reconstruction loss]
-The above paper implements the same idea as the assignment. 
 
 IRMAE (Implicit Rank Minimizing Autoencoder):
-
-This idea came up by facebook researchers and implements a more generalized version of what was accomplished in the LoRAE and the assign
-
+Developed by Facebook researchers, this model generalizes the approach used in both the LoRAE and the assignment, offering a broader framework for rank minimization in latent vectors.
 https://arxiv.org/abs/2010.00679
