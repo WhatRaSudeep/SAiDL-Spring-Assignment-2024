@@ -6,8 +6,7 @@ On the other hand the majorizer loss does a great job in reducing the rank, alth
 
 LoRAE (Low-Rank Autoencoder):
 
-[https://arxiv.org/abs/2310.16194#:~:text=24 Oct 2023]-,Learning Low-Rank Latent Spaces with Simple,Autoencoder%3A Theoretical and Empirical Insights&text=The autoencoder is an unsupervised,by minimizing the reconstruction loss](https://arxiv.org/abs/2310.16194#:~:text=24%20Oct%202023%5D-,Learning%20Low%2DRank%20Latent%20Spaces%20with%20Simple,Autoencoder%3A%20Theoretical%20and%20Empirical%20Insights&text=The%20autoencoder%20is%20an%20unsupervised,by%20minimizing%20the%20reconstruction%20loss).
-
+[https://arxiv.org/abs/2310.16194#:~:text=24 Oct 2023]-,Learning Low-Rank Latent Spaces with Simple,Autoencoder%3A Theoretical and Empirical Insights&text=The autoencoder is an unsupervised,by minimizing the reconstruction loss]
 The above paper implements the same idea as the assignment. 
 
 IRMAE (Implicit Rank Minimizing Autoencoder):
